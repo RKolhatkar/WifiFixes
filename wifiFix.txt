@@ -8,5 +8,6 @@ sudo modprobe wl
 
 others: suse i think, kali too, and arch variants except manjaro
 sudo apt install broadcom-sta or broadcom-common
+sudo modprob wl
 
 manjaro comes with my wifi drivers
