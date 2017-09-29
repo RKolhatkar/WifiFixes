@@ -1,0 +1,12 @@
+Kubuntu:
+just ubuntus afaik
+
+sudo apt-get install linux-headers-generic
+sudo apt-get install --reinstall bcmwl-kernel-source
+
+sudo modprobe wl
+
+others: suse i think, kali too, and arch variants except manjaro
+sudo apt install broadcom-sta or broadcom-common
+
+manjaro comes with my wifi drivers
